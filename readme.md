@@ -6,4 +6,4 @@ I ❤️ C Language.
 
 ## Licence  
 Licenced under the MIT Licence.  
-Copyright (C) 2021 Midori Ado
+Copyright (C) 2022 Aoi Kondo
